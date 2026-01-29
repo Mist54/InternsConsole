@@ -1,0 +1,7 @@
+D:\Personal\C# Project\InternsConsole\InternsConsole\bin\Debug\InternsConsole.exe.config
+D:\Personal\C# Project\InternsConsole\InternsConsole\bin\Debug\InternsConsole.exe
+D:\Personal\C# Project\InternsConsole\InternsConsole\bin\Debug\InternsConsole.pdb
+D:\Personal\C# Project\InternsConsole\InternsConsole\obj\Debug\InternsConsole.csproj.AssemblyReference.cache
+D:\Personal\C# Project\InternsConsole\InternsConsole\obj\Debug\InternsConsole.csproj.CoreCompileInputs.cache
+D:\Personal\C# Project\InternsConsole\InternsConsole\obj\Debug\InternsConsole.exe
+D:\Personal\C# Project\InternsConsole\InternsConsole\obj\Debug\InternsConsole.pdb
