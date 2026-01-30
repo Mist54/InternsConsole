@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "D:\\Personal\\C# Project\\InternsConsole\\InternsConsole\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{750A763D-0401-4717-B0B4-D0BEFD53D324}|InternsConsole.csproj|d:\\personal\\c# project\\internsconsole\\internsconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{750A763D-0401-4717-B0B4-D0BEFD53D324}|InternsConsole.csproj|D:\\Personal\\C# Project\\InternsConsole\\InternsConsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{750A763D-0401-4717-B0B4-D0BEFD53D324}|InternsConsole.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{750A763D-0401-4717-B0B4-D0BEFD53D324}|InternsConsole.csproj|d:\\personal\\c# project\\internsconsole\\internsconsole\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{750A763D-0401-4717-B0B4-D0BEFD53D324}|InternsConsole.csproj|solutionrelative:payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{750A763D-0401-4717-B0B4-D0BEFD53D324}|InternsConsole.csproj|d:\\personal\\c# project\\internsconsole\\internsconsole\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{750A763D-0401-4717-B0B4-D0BEFD53D324}|InternsConsole.csproj|solutionrelative:inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{750A763D-0401-4717-B0B4-D0BEFD53D324}|InternsConsole.csproj|d:\\personal\\c# project\\internsconsole\\internsconsole\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{750A763D-0401-4717-B0B4-D0BEFD53D324}|InternsConsole.csproj|solutionrelative:notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{750A763D-0401-4717-B0B4-D0BEFD53D324}|InternsConsole.csproj|d:\\personal\\c# project\\internsconsole\\internsconsole\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{750A763D-0401-4717-B0B4-D0BEFD53D324}|InternsConsole.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{750A763D-0401-4717-B0B4-D0BEFD53D324}|InternsConsole.csproj|d:\\personal\\c# project\\internsconsole\\internsconsole\\opps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750A763D-0401-4717-B0B4-D0BEFD53D324}|InternsConsole.csproj|solutionrelative:opps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,54 +26,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NotificationService.cs",
-              "DocumentMoniker": "D:\\Personal\\C# Project\\InternsConsole\\InternsConsole\\NotificationService.cs",
-              "RelativeDocumentMoniker": "NotificationService.cs",
-              "ToolTip": "D:\\Personal\\C# Project\\InternsConsole\\InternsConsole\\NotificationService.cs",
-              "RelativeToolTip": "NotificationService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA0AAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T02:43:21.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "INotification.cs",
-              "DocumentMoniker": "D:\\Personal\\C# Project\\InternsConsole\\InternsConsole\\INotification.cs",
-              "RelativeDocumentMoniker": "INotification.cs",
-              "ToolTip": "D:\\Personal\\C# Project\\InternsConsole\\InternsConsole\\INotification.cs",
-              "RelativeToolTip": "INotification.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAgAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T02:42:49.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Payment.cs",
-              "DocumentMoniker": "D:\\Personal\\C# Project\\InternsConsole\\InternsConsole\\Payment.cs",
-              "RelativeDocumentMoniker": "Payment.cs",
-              "ToolTip": "D:\\Personal\\C# Project\\InternsConsole\\InternsConsole\\Payment.cs",
-              "RelativeToolTip": "Payment.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA4AAAAJAAAAAAAAAA==",
+              "Title": "Opps.cs",
+              "DocumentMoniker": "D:\\Personal\\C# Project\\InternsConsole\\InternsConsole\\Opps.cs",
+              "RelativeDocumentMoniker": "Opps.cs",
+              "ToolTip": "D:\\Personal\\C# Project\\InternsConsole\\InternsConsole\\Opps.cs",
+              "RelativeToolTip": "Opps.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowDQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T02:38:11.584Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Personal\\C# Project\\InternsConsole\\InternsConsole\\Student.cs",
-              "RelativeDocumentMoniker": "Student.cs",
-              "ToolTip": "D:\\Personal\\C# Project\\InternsConsole\\InternsConsole\\Student.cs",
-              "RelativeToolTip": "Student.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T02:31:15.64Z",
+              "WhenOpened": "2026-01-30T01:24:05.358Z",
               "EditorCaption": ""
             },
             {
@@ -96,7 +45,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Personal\\C# Project\\InternsConsole\\InternsConsole\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAYwHYAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAYwJIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-29T01:46:41.55Z",
               "EditorCaption": ""

@@ -12,115 +12,137 @@ namespace InternsConsole
         {
             Console.WriteLine("Hello, World!");
 
-            #region Variables
+            //#region Variables
 
-            //int id = 101;
-            //string name = "Sam";
-            //int age = 22;
-            //double salary = 45000.50;
-            //bool isActive = true;
-            //DateTime joiningDate = DateTime.Now;
-            //var department = "IT";
-            //var phoneNumber = 9876543210;
+            ////int id = 101;
+            ////string name = "Sam";
+            ////int age = 22;
+            ////double salary = 45000.50;
+            ////bool isActive = true;
+            ////DateTime joiningDate = DateTime.Now;
+            ////var department = "IT";
+            ////var phoneNumber = 9876543210;
 
-            //// Print each variable
-            //Console.WriteLine("ID: " + id);
-            //Console.WriteLine("Name: " + name);
-            //Console.WriteLine("Age: " + age);
-            //Console.WriteLine("Salary: " + salary);
-            //Console.WriteLine("Is Active: " + isActive);
-            //Console.WriteLine("Joining Date: " + joiningDate);
-            //Console.WriteLine("Department: " + department);
-            //Console.WriteLine("Phone Number: " + phoneNumber);
+            ////// Print each variable
+            ////Console.WriteLine("ID: " + id);
+            ////Console.WriteLine("Name: " + name);
+            ////Console.WriteLine("Age: " + age);
+            ////Console.WriteLine("Salary: " + salary);
+            ////Console.WriteLine("Is Active: " + isActive);
+            ////Console.WriteLine("Joining Date: " + joiningDate);
+            ////Console.WriteLine("Department: " + department);
+            ////Console.WriteLine("Phone Number: " + phoneNumber);
 
-            #endregion Variables
+            //#endregion Variables
 
-            #region Methods
-            //Add(10, 5);
-            //Subtract(y: 10, x: 20);
-            //Multiply(4, 5);
+            //#region Methods
+            ////Add(10, 5);
+            ////Subtract(y: 10, x: 20);
+            ////Multiply(4, 5);
 
-            //// Type Casting
-            //double ImplicitValue = ImplicitCasting(6);
-            //Console.WriteLine("Implicitly Casted Value (int to double): " + ImplicitValue);
-            //int ExplicitValue = ExplicitCasting(9.78);
-            //Console.WriteLine("Explicitly Casted Value (double to int): " + ExplicitValue);
+            ////// Type Casting
+            ////double ImplicitValue = ImplicitCasting(6);
+            ////Console.WriteLine("Implicitly Casted Value (int to double): " + ImplicitValue);
+            ////int ExplicitValue = ExplicitCasting(9.78);
+            ////Console.WriteLine("Explicitly Casted Value (double to int): " + ExplicitValue);
 
-            ////Operators
-            //bool isEmployeeValid = ValidateEmployee(age: 25, experience: 3, salary: 35000);
-            //Console.WriteLine("Is Employee Valid: " + isEmployeeValid);
+            //////Operators
+            ////bool isEmployeeValid = ValidateEmployee(age: 25, experience: 3, salary: 35000);
+            ////Console.WriteLine("Is Employee Valid: " + isEmployeeValid);
 
-            //Control Statements
-            //string votingStatus = CheckVotingEligibility(age: 20);
-            //Console.WriteLine("Voting Eligibility: " + votingStatus);
-            //string workTask = GetWorkTask(day: "Tuesday");
-            //Console.WriteLine("Work Task for Tuesday: " + workTask);
-            //int attendance = CountAttendance(totalStudents: 30);
-            //int loginCount = LoginAttempts(maxAttempts: 3);
-            //ProcessAttendance();
-            //ArrayExample();
-            //ListExample();
-            //StringHandlingExample();
-            //TryCatchExample();
-            #endregion Methods
-
-            #region Students Class Usage
-            // First student using default constructor
-            //Student student1 = new Student();
-            //student1.Id = 1;
-            //student1.Name = "Alice";
-
-            //// Static value (shared)
-            //Student.CollegeName = "ZYX University";
-
-            //Console.WriteLine("Student 1 Details:");
-            //student1.DisplayInfo();
-
-            //bool isCollegeValid = Student.IsCollegeValid();
-            //Console.WriteLine("Is College Valid: " + isCollegeValid);
-
-            //Console.WriteLine("----------------------");
-
-            //// Second student using parameterized constructor
-            //Student student2 = new Student(2, "Sam");
-
-            //Console.WriteLine("Student 2 Details:");
-            //student2.DisplayInfo();
-
+            ////Control Statements
+            ////string votingStatus = CheckVotingEligibility(age: 20);
+            ////Console.WriteLine("Voting Eligibility: " + votingStatus);
+            ////string workTask = GetWorkTask(day: "Tuesday");
+            ////Console.WriteLine("Work Task for Tuesday: " + workTask);
+            ////int attendance = CountAttendance(totalStudents: 30);
+            ////int loginCount = LoginAttempts(maxAttempts: 3);
+            ////ProcessAttendance();
+            ////ArrayExample();
+            ////ListExample();
+            ////StringHandlingExample();
+            ////TryCatchExample();
             //#endregion Methods
 
-            //Console.ReadLine();
-            #endregion Students Class Usage
+            //#region Students Class Usage
+            //// First student using default constructor
+            ////Student student1 = new Student();
+            ////student1.Id = 1;
+            ////student1.Name = "Alice";
 
-            #region Payment Class Usage
-            Console.WriteLine("Cash Payment:");
-            Payment cash = new CashPayment();
-            cash.PaymentStarted();
-            cash.MakePayment(500);
+            ////// Static value (shared)
+            ////Student.CollegeName = "ZYX University";
 
-            Console.WriteLine("--------------------");
+            ////Console.WriteLine("Student 1 Details:");
+            ////student1.DisplayInfo();
 
-            Console.WriteLine("Card Payment:");
-            Payment card = new CardPayment();
-            card.PaymentStarted();
-            card.MakePayment(1200);
-            #endregion Payment Class Usage
+            ////bool isCollegeValid = Student.IsCollegeValid();
+            ////Console.WriteLine("Is College Valid: " + isCollegeValid);
 
-            #region Interfaces Usage
-            Console.WriteLine("Using Email Service:");
-            INotification email = new EmailNotification();
-            NotificationService service1 = new NotificationService(email);
-            service1.Notify("Welcome Email");
+            ////Console.WriteLine("----------------------");
 
-            Console.WriteLine("--------------------");
+            ////// Second student using parameterized constructor
+            ////Student student2 = new Student(2, "Sam");
 
-            Console.WriteLine("Using SMS Service:");
-            INotification sms = new SmsNotification();
-            NotificationService service2 = new NotificationService(sms);
-            service2.Notify("OTP Message");
+            ////Console.WriteLine("Student 2 Details:");
+            ////student2.DisplayInfo();
+
+            ////#endregion Methods
+
+            ////Console.ReadLine();
+            //#endregion Students Class Usage
+
+            //#region Payment Class Usage
+            //Console.WriteLine("Cash Payment:");
+            //Payment cash = new CashPayment();
+            //cash.PaymentStarted();
+            //cash.MakePayment(500);
+
+            //Console.WriteLine("--------------------");
+
+            //Console.WriteLine("Card Payment:");
+            //Payment card = new CardPayment();
+            //card.PaymentStarted();
+            //card.MakePayment(1200);
+            //#endregion Payment Class Usage
+
+            //#region Interfaces Usage
+            ////Console.WriteLine("Using Email Service:");
+            ////INotification email = new EmailNotification();
+            ////NotificationService service1 = new NotificationService(email);
+            ////service1.Notify("Welcome Email");
+
+            ////Console.WriteLine("--------------------");
+
+            ////Console.WriteLine("Using SMS Service:");
+            ////INotification sms = new SmsNotification();
+            ////NotificationService service2 = new NotificationService(sms);
+            ////service2.Notify("OTP Message");
 
 
-            #endregion Interfaces Usage
+            //#endregion Interfaces Usage
+
+            #region OPPs
+            //Person person = new Person("John", 25);
+            //person.DisplayPerson();
+            //person.Show();
+
+            //Console.WriteLine("----------------");
+
+            //Employee emp = new Employee(101, "IT");
+            //emp.DisplayEmployee();
+
+            //Console.WriteLine("----------------");
+
+            //Account account = new Account(5000);
+            //account.Deposit(2000);
+            //account.DisplayBalance();
+
+            Opps opps = new Person();
+            opps.Speak();
+
+            #endregion OPPs
+
             Console.ReadLine();
         }
 

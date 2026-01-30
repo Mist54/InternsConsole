@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="INotification.cs" />
     <Compile Include="NotificationService.cs" />
+    <Compile Include="Opps.cs" />
     <Compile Include="Payment.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
